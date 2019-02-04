@@ -29,7 +29,7 @@
     "cwd": "__DEPLOY_PATH__/__APP_NAME__",
     "exec_mode": "fork",
     "interpreter": "__INTERPRETER_PATH__",
-    "args": "__INTERPRETER_ARGS__",
+    "args": "__APP_ARGS__",
     "env": {}
 }
 
