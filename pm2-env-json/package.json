@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Danial Manavi",
+  "license": "ISC",
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "yargs": "^11.0.0"
+  }
+}
