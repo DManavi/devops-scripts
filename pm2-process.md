@@ -28,8 +28,8 @@
     "merge_logs": true,
     "cwd": "__DEPLOY_PATH__/__APP_NAME__",
     "exec_mode": "fork",
-    "interpreter": "__INTERPRETTER_PATH__",
-    "args": "",
+    "interpreter": "__INTERPRETER_PATH__",
+    "args": "__INTERPRETER_ARGS__",
     "env": {}
 }
 
